@@ -1,8 +1,8 @@
 # Text-to-TextGeneratorApp
 
-===============================
+
 📝 Text-to-Text Generator App
-===============================
+
 
 This is a simple AI-powered text-to-text generation web application built using:
 - Cohere's Large Language Model (LLM)
