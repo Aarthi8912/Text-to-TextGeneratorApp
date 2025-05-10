@@ -28,7 +28,7 @@ class CohereLLM(LLM):
 
 
 # Replace this with your real Cohere API key
-COHERE_API_KEY = "q2LuTzyDJOwEDn2Uay7I6erj1qIiRn3jPzWnZZRU"
+COHERE_API_KEY = "api_key"
 
 # Initialize the custom LLM
 llm = CohereLLM(api_key=COHERE_API_KEY)
